@@ -1,9 +1,6 @@
-
----
-
 # SmartHeal
 
-SmartHeal is a comprehensive health management system designed to streamline healthcare processes, enhance patient care, and manage medical records efficiently. The application includes various features for managing appointments, messages, and user profiles.
+SmartHeal is a comprehensive health management system designed to streamline healthcare processes, enhance patient care, and manage medical records efficiently. Built on the MERN (MongoDB, Express, React, Node.js) stack, the application includes various features for managing appointments, messages, and user profiles.
 
 ## Features
 
